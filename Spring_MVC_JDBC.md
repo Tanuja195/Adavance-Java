@@ -1,3 +1,34 @@
+```
+Student_MVC_Project
+│
+├── src
+│   └── main
+│       ├── java
+│       │   └── com
+│       │       └── cdac
+│       │           |
+│       │           │── StudentController.java
+│       │           │── StudentDAO.java
+│       │           |── Student.java
+│       │             
+│       ├── resources
+│       │   └── application.properties   (DB config)
+│       │
+│       └── webapp
+│           └── WEB-INF
+│               ├── views
+│               │   ├── register.jsp
+│               │   ├── editData.jsp
+│               │   ├── viewStudent.jsp
+│               │
+│               └── web.xml   (agar XML config use ho rahi ho)
+│
+├── pom.xml
+└── README.md
+
+```
+
+
 ### Student Registration
 
 ## Student.java
